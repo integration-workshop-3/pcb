@@ -1,0 +1,317 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4fb49826-f4f2-4adc-9167-0fde2cfae758")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 154.94 21.59)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "077b7e1f-6a50-4498-916f-2f2cbb308e4d")
+		(property "Sheetname" "Power"
+			(at 154.94 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 154.94 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 21.59)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3268f42b-1e36-44cd-bde5-6c72a5f6d71d")
+		(property "Sheetname" "MCU"
+			(at 22.86 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 22.86 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 101.6)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f574251-545c-4351-bdd5-3fed76cdaf60")
+		(property "Sheetname" "Led_Strip"
+			(at 88.9 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Led_Strip.kicad_sch"
+			(at 88.9 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 60.96)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "699ecae8-f86c-424f-9c9e-78606780853d")
+		(property "Sheetname" "Moisture_Sensor"
+			(at 88.9 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Moisture_Sensor.kicad_sch"
+			(at 88.9 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 101.6)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "794decff-4a4c-4e2d-aa5d-53445055f074")
+		(property "Sheetname" "DC_Motors"
+			(at 22.86 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dc_motors.kicad_sch"
+			(at 22.86 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 60.96)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d0053cc7-11a1-448f-bcbd-a2c64a79480d")
+		(property "Sheetname" "MPU_6050"
+			(at 22.86 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mpu_6050.kicad_sch"
+			(at 22.86 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 21.59)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da30b0fa-c96b-4c14-91e8-cb645bedfbe5")
+		(property "Sheetname" "LoadCells"
+			(at 88.9 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "load_cells.kicad_sch"
+			(at 88.9 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 60.96)
+		(size 58.42 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f07c9c00-c4ca-4771-a250-752aa59993c3")
+		(property "Sheetname" "Servo_Motors"
+			(at 154.94 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "servo_motors.kicad_sch"
+			(at 154.94 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "schematic"
+				(path "/4fb49826-f4f2-4adc-9167-0fde2cfae758"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
